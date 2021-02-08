@@ -1,5 +1,4 @@
-# API-Previsao-do-Tempo
-<h1> Requisitando dados de uma API de Criptomoedas :partly_sunny: </h1>
+<h1> Requisitando dados de uma API-Previsao-do-Tempo :partly_sunny: </h1>
 
 
 <h2> Weather API: </h2>
