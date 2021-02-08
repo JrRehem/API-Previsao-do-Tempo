@@ -5,7 +5,7 @@
 
 - Realizar o cadastro ou login para resgatar sua key.
 
-URL: https://openweathermap.org/api
+[Open Weather](https://openweathermap.org/api "Open Weather")
 
 <h3>Instalações necessárias para o funcionamento</h3>
 
