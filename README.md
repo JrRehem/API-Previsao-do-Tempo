@@ -20,7 +20,6 @@ URL: https://openweathermap.org/api
   <li> ng add @ngrx/entity@latest </li>
   <li> ng add @ngrx/schematics@latest </li>
  </ul>
- <b/>
 <h2>Angular BootStrap<h2>
  <b/>
  <ul>
