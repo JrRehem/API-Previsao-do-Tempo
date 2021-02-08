@@ -1,13 +1,13 @@
-#Requisitando dados de uma API de Previsao do Tempo :partly_sunny:
+#Requisitando dados de uma API de Previsao do Tempo :partly_sunny:#
 
 
-##Weather API:
+##Weather API:##
 
 - Realizar o cadastro ou login para resgatar sua key.
 
 URL: https://openweathermap.org/api
 
-##Instalações necessárias para o funcionamento
+##Instalações necessárias para o funcionamento##
 
 [Reactive State for Angular](https://ngrx.io/guide/store "Reactive State for Angular"):
 
@@ -20,7 +20,7 @@ URL: https://openweathermap.org/api
 - ng add @ngrx/schematics@latest
 
  
- [Angular BootStrap](https://getbootstrap.com/docs/5.0/getting-started/download/ "Angular BootStrap")
+ ##[Angular BootStrap](https://getbootstrap.com/docs/5.0/getting-started/download/ "Angular BootStrap")##
  
 - npm install bootstrap@next</li>
 
