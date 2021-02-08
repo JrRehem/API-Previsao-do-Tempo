@@ -9,8 +9,8 @@
 URL: https://openweathermap.org/api
 
 <h2> Instalações necessárias para o funcionamento  </h2>
+ [Reactive State for Angular]("https://ngrx.io/guide/store"):
  <ul>
-   - NGRX [Reactive State for Angular]("https://ngrx.io/guide/store"):
   <li> ng add @ngrx/store-devtools@latest </li>
   <li> ng add @ngrx/store@latest </li>
   <li> ng add @ngrx/effects@latest </li>
